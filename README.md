@@ -1,3 +1,4 @@
+转存备用，原版权为UMNFuN所有
 <h1>FUNGuild: Fungi + fUNctional + Guild</h1>
 
 <b><i>Over 13,000 fungal taxa now included in the database</i>!</b>
